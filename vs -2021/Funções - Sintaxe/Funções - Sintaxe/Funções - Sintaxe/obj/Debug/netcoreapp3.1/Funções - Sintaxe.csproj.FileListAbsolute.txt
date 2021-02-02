@@ -1,0 +1,13 @@
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\bin\Debug\netcoreapp3.1\Funções - Sintaxe.exe
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\bin\Debug\netcoreapp3.1\Funções - Sintaxe.deps.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\bin\Debug\netcoreapp3.1\Funções - Sintaxe.runtimeconfig.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\bin\Debug\netcoreapp3.1\Funções - Sintaxe.runtimeconfig.dev.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\bin\Debug\netcoreapp3.1\Funções - Sintaxe.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\bin\Debug\netcoreapp3.1\Funções - Sintaxe.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\obj\Debug\netcoreapp3.1\Funções - Sintaxe.csprojAssemblyReference.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\obj\Debug\netcoreapp3.1\Funções - Sintaxe.AssemblyInfoInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\obj\Debug\netcoreapp3.1\Funções - Sintaxe.AssemblyInfo.cs
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\obj\Debug\netcoreapp3.1\Funções - Sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\obj\Debug\netcoreapp3.1\Funções - Sintaxe.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\obj\Debug\netcoreapp3.1\Funções - Sintaxe.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Funções - Sintaxe\Funções - Sintaxe\Funções - Sintaxe\obj\Debug\netcoreapp3.1\Funções - Sintaxe.genruntimeconfig.cache
