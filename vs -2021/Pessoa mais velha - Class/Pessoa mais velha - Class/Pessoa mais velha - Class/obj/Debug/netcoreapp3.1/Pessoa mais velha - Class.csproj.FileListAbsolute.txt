@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\bin\Debug\netcoreapp3.1\Pessoa mais velha - Class.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\bin\Debug\netcoreapp3.1\Pessoa mais velha - Class.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\bin\Debug\netcoreapp3.1\Pessoa mais velha - Class.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\bin\Debug\netcoreapp3.1\Pessoa mais velha - Class.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\bin\Debug\netcoreapp3.1\Pessoa mais velha - Class.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\bin\Debug\netcoreapp3.1\Pessoa mais velha - Class.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\obj\Debug\netcoreapp3.1\Pessoa mais velha - Class.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\obj\Debug\netcoreapp3.1\Pessoa mais velha - Class.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\obj\Debug\netcoreapp3.1\Pessoa mais velha - Class.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\obj\Debug\netcoreapp3.1\Pessoa mais velha - Class.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\obj\Debug\netcoreapp3.1\Pessoa mais velha - Class.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\obj\Debug\netcoreapp3.1\Pessoa mais velha - Class.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Pessoa mais velha - Class\Pessoa mais velha - Class\Pessoa mais velha - Class\obj\Debug\netcoreapp3.1\Pessoa mais velha - Class.genruntimeconfig.cache

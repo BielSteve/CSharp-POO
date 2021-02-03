@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\bin\Debug\netcoreapp3.1\Maior Salario - Class.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\bin\Debug\netcoreapp3.1\Maior Salario - Class.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\bin\Debug\netcoreapp3.1\Maior Salario - Class.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\bin\Debug\netcoreapp3.1\Maior Salario - Class.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\bin\Debug\netcoreapp3.1\Maior Salario - Class.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\bin\Debug\netcoreapp3.1\Maior Salario - Class.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\obj\Debug\netcoreapp3.1\Maior Salario - Class.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\obj\Debug\netcoreapp3.1\Maior Salario - Class.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\obj\Debug\netcoreapp3.1\Maior Salario - Class.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\obj\Debug\netcoreapp3.1\Maior Salario - Class.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\obj\Debug\netcoreapp3.1\Maior Salario - Class.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\obj\Debug\netcoreapp3.1\Maior Salario - Class.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Maior Salario - Class\Maior Salario - Class\Maior Salario - Class\obj\Debug\netcoreapp3.1\Maior Salario - Class.genruntimeconfig.cache
