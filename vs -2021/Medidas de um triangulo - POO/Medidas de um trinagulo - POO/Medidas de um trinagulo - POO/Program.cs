@@ -31,11 +31,10 @@ namespace Medidas_de_um_trinagulo___POO
             y.C = double.Parse(s[2], CultureInfo.InvariantCulture);
 
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            //Sempre colocar () para indicar que é um metodo
+            double areaX = x.Area();
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaY = y.Area();     
 
             Console.WriteLine("Area de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Area de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
