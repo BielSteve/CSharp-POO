@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\bin\Debug\netcoreapp3.1\Retangulo - POO.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\bin\Debug\netcoreapp3.1\Retangulo - POO.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\bin\Debug\netcoreapp3.1\Retangulo - POO.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\bin\Debug\netcoreapp3.1\Retangulo - POO.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\bin\Debug\netcoreapp3.1\Retangulo - POO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\bin\Debug\netcoreapp3.1\Retangulo - POO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\obj\Debug\netcoreapp3.1\Retangulo - POO.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\obj\Debug\netcoreapp3.1\Retangulo - POO.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\obj\Debug\netcoreapp3.1\Retangulo - POO.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\obj\Debug\netcoreapp3.1\Retangulo - POO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\obj\Debug\netcoreapp3.1\Retangulo - POO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\obj\Debug\netcoreapp3.1\Retangulo - POO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Retangulo - POO\Retangulo - POO\Retangulo - POO\obj\Debug\netcoreapp3.1\Retangulo - POO.genruntimeconfig.cache
