@@ -1,0 +1,13 @@
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\bin\Debug\netcoreapp3.1\Aluno - POO.exe
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\bin\Debug\netcoreapp3.1\Aluno - POO.deps.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\bin\Debug\netcoreapp3.1\Aluno - POO.runtimeconfig.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\bin\Debug\netcoreapp3.1\Aluno - POO.runtimeconfig.dev.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\bin\Debug\netcoreapp3.1\Aluno - POO.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\bin\Debug\netcoreapp3.1\Aluno - POO.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\obj\Debug\netcoreapp3.1\Aluno - POO.csprojAssemblyReference.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\obj\Debug\netcoreapp3.1\Aluno - POO.AssemblyInfoInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\obj\Debug\netcoreapp3.1\Aluno - POO.AssemblyInfo.cs
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\obj\Debug\netcoreapp3.1\Aluno - POO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\obj\Debug\netcoreapp3.1\Aluno - POO.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\obj\Debug\netcoreapp3.1\Aluno - POO.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Aluno - POO\Aluno - POO\Aluno - POO\obj\Debug\netcoreapp3.1\Aluno - POO.genruntimeconfig.cache

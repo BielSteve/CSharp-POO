@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aluno - POO/1.0.0": {
+        "runtime": {
+          "Aluno - POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aluno - POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
