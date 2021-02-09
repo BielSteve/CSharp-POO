@@ -11,3 +11,16 @@ C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Problema Exemplo- 
 C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.dll
 C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.genruntimeconfig.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\bin\Debug\netcoreapp3.1\Problema Exemplo- Estatico.exe
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\bin\Debug\netcoreapp3.1\Problema Exemplo- Estatico.deps.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\bin\Debug\netcoreapp3.1\Problema Exemplo- Estatico.runtimeconfig.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\bin\Debug\netcoreapp3.1\Problema Exemplo- Estatico.runtimeconfig.dev.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\bin\Debug\netcoreapp3.1\Problema Exemplo- Estatico.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\bin\Debug\netcoreapp3.1\Problema Exemplo- Estatico.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.csprojAssemblyReference.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.AssemblyInfoInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.AssemblyInfo.cs
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Problema Exemplo- Estatico\Problema Exemplo- Estatico\Problema Exemplo- Estatico\obj\Debug\netcoreapp3.1\Problema Exemplo- Estatico.genruntimeconfig.cache

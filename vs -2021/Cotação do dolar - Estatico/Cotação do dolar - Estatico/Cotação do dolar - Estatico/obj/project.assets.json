@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico.csproj",
-      "projectName": "Problema Exemplo- Estatico",
-      "projectPath": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Cotação do dolar - Estatico\\Cotação do dolar - Estatico\\Cotação do dolar - Estatico\\Cotação do dolar - Estatico.csproj",
+      "projectName": "Cotação do dolar - Estatico",
+      "projectPath": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Cotação do dolar - Estatico\\Cotação do dolar - Estatico\\Cotação do dolar - Estatico\\Cotação do dolar - Estatico.csproj",
       "packagesPath": "C:\\Users\\gabriel.pires\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\obj\\",
+      "outputPath": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Cotação do dolar - Estatico\\Cotação do dolar - Estatico\\Cotação do dolar - Estatico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel.pires\\AppData\\Roaming\\NuGet\\NuGet.Config",

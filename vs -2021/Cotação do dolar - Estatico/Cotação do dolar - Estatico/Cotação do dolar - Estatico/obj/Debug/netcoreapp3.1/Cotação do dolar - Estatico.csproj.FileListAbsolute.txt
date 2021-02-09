@@ -1,0 +1,13 @@
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\bin\Debug\netcoreapp3.1\Cotação do dolar - Estatico.exe
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\bin\Debug\netcoreapp3.1\Cotação do dolar - Estatico.deps.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\bin\Debug\netcoreapp3.1\Cotação do dolar - Estatico.runtimeconfig.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\bin\Debug\netcoreapp3.1\Cotação do dolar - Estatico.runtimeconfig.dev.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\bin\Debug\netcoreapp3.1\Cotação do dolar - Estatico.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\bin\Debug\netcoreapp3.1\Cotação do dolar - Estatico.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\obj\Debug\netcoreapp3.1\Cotação do dolar - Estatico.csprojAssemblyReference.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\obj\Debug\netcoreapp3.1\Cotação do dolar - Estatico.AssemblyInfoInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\obj\Debug\netcoreapp3.1\Cotação do dolar - Estatico.AssemblyInfo.cs
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\obj\Debug\netcoreapp3.1\Cotação do dolar - Estatico.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\obj\Debug\netcoreapp3.1\Cotação do dolar - Estatico.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\obj\Debug\netcoreapp3.1\Cotação do dolar - Estatico.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Cotação do dolar - Estatico\Cotação do dolar - Estatico\Cotação do dolar - Estatico\obj\Debug\netcoreapp3.1\Cotação do dolar - Estatico.genruntimeconfig.cache
