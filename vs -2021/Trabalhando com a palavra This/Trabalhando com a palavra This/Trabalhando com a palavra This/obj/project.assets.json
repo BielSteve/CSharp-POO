@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico.csproj",
-      "projectName": "Problema Exemplo- Estatico",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Trabalhando com a palavra This\\Trabalhando com a palavra This\\Trabalhando com a palavra This\\Trabalhando com a palavra This.csproj",
+      "projectName": "Trabalhando com a palavra This",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Trabalhando com a palavra This\\Trabalhando com a palavra This\\Trabalhando com a palavra This\\Trabalhando com a palavra This.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\Problema Exemplo- Estatico\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Trabalhando com a palavra This\\Trabalhando com a palavra This\\Trabalhando com a palavra This\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
