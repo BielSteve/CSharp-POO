@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Conta Bancaria\Conta Bancaria\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.genruntimeconfig.cache
