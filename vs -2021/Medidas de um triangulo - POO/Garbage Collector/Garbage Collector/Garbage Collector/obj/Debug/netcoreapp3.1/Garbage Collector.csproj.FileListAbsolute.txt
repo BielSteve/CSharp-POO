@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\netcoreapp3.1\Garbage Collector.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\netcoreapp3.1\Garbage Collector.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\netcoreapp3.1\Garbage Collector.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\netcoreapp3.1\Garbage Collector.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\netcoreapp3.1\Garbage Collector.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\netcoreapp3.1\Garbage Collector.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\netcoreapp3.1\Garbage Collector.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\netcoreapp3.1\Garbage Collector.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\netcoreapp3.1\Garbage Collector.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\netcoreapp3.1\Garbage Collector.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\netcoreapp3.1\Garbage Collector.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\netcoreapp3.1\Garbage Collector.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\netcoreapp3.1\Garbage Collector.genruntimeconfig.cache
