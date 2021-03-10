@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Garbage collector/1.0.0": {
+        "runtime": {
+          "Garbage collector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Garbage collector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
