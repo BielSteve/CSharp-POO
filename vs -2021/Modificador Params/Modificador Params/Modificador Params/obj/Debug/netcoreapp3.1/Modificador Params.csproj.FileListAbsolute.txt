@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Modificador Params\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.genruntimeconfig.cache

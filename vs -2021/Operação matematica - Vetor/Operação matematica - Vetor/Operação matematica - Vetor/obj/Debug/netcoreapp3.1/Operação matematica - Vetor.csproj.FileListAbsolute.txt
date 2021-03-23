@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\bin\Debug\netcoreapp3.1\Operação matematica - Vetor.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\bin\Debug\netcoreapp3.1\Operação matematica - Vetor.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\bin\Debug\netcoreapp3.1\Operação matematica - Vetor.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\bin\Debug\netcoreapp3.1\Operação matematica - Vetor.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\bin\Debug\netcoreapp3.1\Operação matematica - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\bin\Debug\netcoreapp3.1\Operação matematica - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\obj\Debug\netcoreapp3.1\Operação matematica - Vetor.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\obj\Debug\netcoreapp3.1\Operação matematica - Vetor.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\obj\Debug\netcoreapp3.1\Operação matematica - Vetor.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\obj\Debug\netcoreapp3.1\Operação matematica - Vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\obj\Debug\netcoreapp3.1\Operação matematica - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\obj\Debug\netcoreapp3.1\Operação matematica - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Operação matematica - Vetor\Operação matematica - Vetor\Operação matematica - Vetor\obj\Debug\netcoreapp3.1\Operação matematica - Vetor.genruntimeconfig.cache
