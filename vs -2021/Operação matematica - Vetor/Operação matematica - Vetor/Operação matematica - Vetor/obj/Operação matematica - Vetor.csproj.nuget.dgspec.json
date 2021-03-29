@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor.csproj": {}
+    "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor.csproj": {
+    "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor.csproj",
         "projectName": "Operação matematica - Vetor",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\obj\\",
+        "projectPath": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor.csproj",
+        "packagesPath": "C:\\Users\\gabriel.pires\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Operação matematica - Vetor\\Operação matematica - Vetor\\Operação matematica - Vetor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel.pires\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

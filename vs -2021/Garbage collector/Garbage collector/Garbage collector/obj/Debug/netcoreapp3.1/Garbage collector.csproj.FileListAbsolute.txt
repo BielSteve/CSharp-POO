@@ -11,3 +11,16 @@ C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage collector\
 C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.dll
 C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.genruntimeconfig.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\bin\Debug\netcoreapp3.1\Garbage collector.exe
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\bin\Debug\netcoreapp3.1\Garbage collector.deps.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\bin\Debug\netcoreapp3.1\Garbage collector.runtimeconfig.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\bin\Debug\netcoreapp3.1\Garbage collector.runtimeconfig.dev.json
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\bin\Debug\netcoreapp3.1\Garbage collector.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\bin\Debug\netcoreapp3.1\Garbage collector.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.csprojAssemblyReference.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.AssemblyInfoInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.AssemblyInfo.cs
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.dll
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.pdb
+C:\Users\gabriel.pires\Desktop\CSharp-POO\vs -2021\Garbage collector\Garbage collector\Garbage collector\obj\Debug\netcoreapp3.1\Garbage collector.genruntimeconfig.cache

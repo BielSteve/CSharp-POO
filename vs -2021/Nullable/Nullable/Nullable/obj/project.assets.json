@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {}
+    "C:\\Users\\gabriel.pires\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Nullable\\Nullable\\Nullable\\Nullable.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Nullable\\Nullable\\Nullable\\Nullable.csproj",
       "projectName": "Nullable",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Nullable\\Nullable\\Nullable\\Nullable.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\CSharp-POO\\vs -2021\\Nullable\\Nullable\\Nullable\\obj\\",
+      "projectPath": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Nullable\\Nullable\\Nullable\\Nullable.csproj",
+      "packagesPath": "C:\\Users\\gabriel.pires\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabriel.pires\\Desktop\\CSharp-POO\\vs -2021\\Nullable\\Nullable\\Nullable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabriel.pires\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
